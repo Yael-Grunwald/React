@@ -1,0 +1,3 @@
+const message = "My first Git file";
+
+console.log(message);
